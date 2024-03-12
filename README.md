@@ -1,7 +1,7 @@
 <h1 align="center">WELCOME, I'm Henrique Gonçalves de Jesus</h1>
 <h3 align="center">Sou um entusiasta da programação com 17 anos, atualmente dedicando meu tempo para aprender e crescer no mundo da codificação. Estou participando ativamente de cursos de programação na Aprendizagem WEG, onde estou explorando as maravilhas da lógica de programação, linguagens de programação e desenvolvimento de projetos emocionantes.</h3>
 
-- 📫 How to reach me **henrique_g_jesus@estudante.sesisenai.org.br**
+- 📫 How to reach me **henriquejg.jesus@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
