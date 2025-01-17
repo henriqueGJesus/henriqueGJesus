@@ -1,9 +1,9 @@
 <h1 align="center">WELCOME, I'm Henrique Gonçalves de Jesus</h1>
-<h3 align="center">Sou um entusiasta da programação com 17 anos, atualmente dedicando meu tempo para aprender e crescer no mundo da codificação. Estou participando ativamente de um curso de programação na Aprendizagem WEG, onde estou explorando as maravilhas da lógica de programação, linguagens de programação e desenvolvimento de projetos emocionantes.</h3>
+<h3 align="center">Eu sou um desenvolvedor de Software full stack com formação em mecatrônica e que está cursando Eng. Software. Atualmente trabalho como desenvolvedor na empresa WEG aonde atuo desenvolvendo aplicações com foco na redução do lead time da engenharia. Este é o meu git hub pessoal aonde você pode encontrar projetos em java, python, typscript e javascript. Sempre estou buscando resolver problemas reais e aprender novas tecnologias!!</h3>
 
 - 📫 How to reach me **henriquejg.jesus@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/henrique-gonçalves-de-jesus-761635293/</h3>
 <p align="left">
 </p>
 
